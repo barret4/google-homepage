@@ -1,0 +1,25 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	float: right;
+}
+
+li{
+	display: inline;
+
+}
+
+a{
+	color: #404040;
+	display: inline-block;
+	text-align: center;
+	//width: 45px;
+}
+
+#nav ul, #r_footer ul {float: right;}
+#l_footer{float: left;}
+
+form{
+	text-align: center;
+}
